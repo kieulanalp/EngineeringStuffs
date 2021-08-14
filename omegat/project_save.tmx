@@ -12411,6 +12411,14 @@ file gốc bị nhảy dòng</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Emitting Diode</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T135328Z" creationid="Kieu Lan" creationdate="20210814T135328Z">
+        <seg>Light Emitting Diode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Switching *1</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064656Z" creationid="Kieu Lan" creationdate="20210809T064127Z">
