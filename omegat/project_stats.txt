@@ -1,0 +1,14 @@
+8/14/21 7:25 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	    8762	49585	                     269827	                       310913	     1	
+Remaining:       	    3109	19142	                     107579	                       123590	     1	
+Unique:          	    5284	43866	                     239806	                       278201	     1	
+Unique Remaining:	    2387	17877	                     100724	                       116088	     1	
+
+
+Individual File Statistics:
+
+File Name                                	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+IHG EngineeringDesignGuidelines_2015.docx	          8762	              3109	           5284	                     2387	      49585	          19142	       43866	                 17877	                           269827	                               107579	                            239806	                                      100724	                             310913	                                 123590	                              278201	                                        116088	
