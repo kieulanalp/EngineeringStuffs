@@ -5720,6 +5720,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CC</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134800Z" creationid="Kieu Lan" creationdate="20210814T134800Z">
+        <seg>CC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CCT V</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064443Z" creationid="Kieu Lan" creationdate="20210809T064443Z">
@@ -5732,6 +5740,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T035110Z" creationid="LanHK" creationdate="20210715T035110Z">
         <seg>Central chilled water and —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CF</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134734Z" creationid="Kieu Lan" creationdate="20210814T134734Z">
+        <seg>CF</seg>
       </tuv>
     </tu>
     <tu>
@@ -6346,6 +6362,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cold Cathode</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134814Z" creationid="Kieu Lan" creationdate="20210814T134814Z">
+        <seg>Cold Cathode     /     Đèn cathode lạnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cold Water</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210405T154657Z" creationid="Kieu Lan" creationdate="20210405T154657Z">
@@ -6406,6 +6430,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210715T042019Z" creationid="PHUONG.DTM" creationdate="20210604T110936Z">
         <seg>Communication with continuously staffed position     /     Kết nối tới vị trí luôn có nhân viên trực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compact Fluorescent</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134740Z" creationid="Kieu Lan" creationdate="20210814T134740Z">
+        <seg>Compact Fluorescent     /     Đèn huỳnh quang compact</seg>
       </tuv>
     </tu>
     <tu>
@@ -9179,6 +9211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fluorescent</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134734Z" creationid="Kieu Lan" creationdate="20210814T134734Z">
+        <seg>Fluorescent     /     Đèn huỳnh quang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foam system</seg>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210713T095946Z" creationid="LanHK" creationdate="20210713T095946Z">
@@ -10463,6 +10503,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210729T100008Z" creationid="Kieu Lan" creationdate="20210729T100008Z">
         <seg>High     /     Cao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High Intensity Discharge (High pressure sodium, metal halide, etc.)</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134759Z" creationid="Kieu Lan" creationdate="20210814T134759Z">
+        <seg>High Intensity Discharge (High pressure sodium, metal halide, etc.)     /     Đèn phóng điện cường độ cao (natri cao áp, halogen kim loại, v.v.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12055,6 +12103,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T085108Z" creationid="Kieu Lan" creationdate="20210814T085108Z">
         <seg>LE/LED/F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LED</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134814Z" creationid="Kieu Lan" creationdate="20210814T134814Z">
+        <seg>LED</seg>
       </tuv>
     </tu>
     <tu>
