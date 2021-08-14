@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134604Z" creationid="Kieu Lan" creationdate="20210814T134604Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp; Foyer</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210809T064830Z" creationid="Kieu Lan" creationdate="20210809T064821Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210717T023719Z" creationid="LanHK" creationdate="20210717T023719Z">
         <seg>(m2)     /      Diện tích gross khách sạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134459Z" creationid="Kieu Lan" creationdate="20210814T134459Z">
+        <seg>*</seg>
       </tuv>
     </tu>
     <tu>
@@ -11229,6 +11245,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Includes chandeliers, wall brackets, etc, decorative effect lighting.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134603Z" creationid="Kieu Lan" creationdate="20210814T134603Z">
+        <seg>Includes chandeliers, wall brackets, etc, decorative effect lighting.     /     Bao gồm đèn trần, đèn gắn tường, đèn trang trí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increased capital and running costs</seg>
       </tuv>
       <tuv lang="VI" changeid="tieuphuong" changedate="20210808T080730Z" creationid="LanHK" creationdate="20210717T022640Z">
@@ -12824,6 +12848,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210802T043610Z" creationid="Kieu Lan" creationdate="20210802T043610Z">
         <seg>MEDIUM     /     Trung bình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MH/HID</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134459Z" creationid="Kieu Lan" creationdate="20210814T134459Z">
+        <seg>MH/HID</seg>
       </tuv>
     </tu>
     <tu>
@@ -17396,6 +17428,14 @@ Mounting hardware</note>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210810T063443Z" creationid="Kieu Lan" creationdate="20210810T063443Z">
         <seg>Sub-main electrical distribution must be arranged to limit the failure of any single item of equipment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subject to special lighting effects/local decorative lighting.</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134703Z" creationid="Kieu Lan" creationdate="20210814T134703Z">
+        <seg>Subject to special lighting effects/local decorative lighting.     /     Phụ thuộc vào hiệu ứng chiếu sáng đằng biệt/chiếu sáng trang trí cục bộ</seg>
       </tuv>
     </tu>
     <tu>
