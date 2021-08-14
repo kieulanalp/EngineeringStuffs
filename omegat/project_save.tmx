@@ -6643,6 +6643,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Covered/Underground Parking</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134407Z" creationid="Kieu Lan" creationdate="20210814T134407Z">
+        <seg>Covered/Underground Parking     /     Bãi đỗ xe có mái/ngầm</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>https://www.cosmosadp.com/images/sound-attenuator/CTA-5-C.pdf</note>
       <tuv lang="EN-US">
         <seg>Cross talk attenuators and any services penetrations to/from meeting rooms and guest bedrooms to provide 50dB sound reduction through the wall, floor or roof.</seg>
@@ -14186,6 +14194,14 @@ file gốc bị nhảy dòng</note>
       </tuv>
       <tuv lang="VI" changeid="LanHK" changedate="20210601T101204Z" creationid="LanHK" creationdate="20210601T095941Z">
         <seg>Other relevant documentation is provided below:-    /    Các tài liệu có liên quan được liệt kê dưới đây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outdoor Pools</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134416Z" creationid="Kieu Lan" creationdate="20210814T134416Z">
+        <seg>Outdoor Pools     /     Bể bơi ngoài trời</seg>
       </tuv>
     </tu>
     <tu>
