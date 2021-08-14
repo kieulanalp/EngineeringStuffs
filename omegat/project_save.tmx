@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9955,6 +9955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ground Level</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134255Z" creationid="Kieu Lan" creationdate="20210814T134255Z">
+        <seg>Ground Level     /     Mức mặt đất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guest</seg>
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210728T095535Z" creationid="Kieu Lan" creationdate="20210728T095504Z">
@@ -10207,6 +10215,14 @@
       </tuv>
       <tuv lang="VI" changeid="Kieu Lan" changedate="20210805T045457Z" creationid="Kieu Lan" creationdate="20210805T045457Z">
         <seg>HDPE (High density Polyethylene) has outstanding flexibility &amp; high Imapct Resistance.     /     HDPE có độ dẻo và chống va đập tốt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HID</seg>
+      </tuv>
+      <tuv lang="VI" changeid="Kieu Lan" changedate="20210814T134256Z" creationid="Kieu Lan" creationdate="20210814T134256Z">
+        <seg>HID</seg>
       </tuv>
     </tu>
     <tu>
